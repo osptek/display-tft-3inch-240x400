@@ -1,0 +1,10 @@
+id: YDP300B001-V9
+category: displays
+size: "3"
+panel: tft
+resolution: 240x400
+interface: [mcu]
+driver: ST7793
+touch: null
+outline: 45.04 x 77.05 mm
+active_area: 38.88 x 64.8 mm
